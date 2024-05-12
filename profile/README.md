@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="512" height="512" src="https://github.com/Project-Llama/.github">
+  <img width="128" height="128" src="https://github.com/Project-Llama/.github">
 </p>
 
 # Project Llama
