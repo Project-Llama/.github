@@ -1,4 +1,4 @@
-<div style="border-radius: 20px; overflow: hidden; display: inline-block;">
+<div style="border-radius: 20px;" align="center">
   <img width="128" height="128" src="https://github.com/Project-Llama/.github/blob/main/profile/IMG_1442.jpeg">
 </div>
 
