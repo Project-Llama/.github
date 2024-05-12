@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="128" height="128" src="https://github.com/Project-Llama/.github/blob/main/profile/IMG_1442.jpeg" style="border-radius: 20px;">
-</p>
+<div style="border-radius: 20px; overflow: hidden; display: inline-block;">
+  <img width="128" height="128" src="https://github.com/Project-Llama/.github/blob/main/profile/IMG_1442.jpeg">
+</div>
 
 # Project Llama
 Project Llama aims to bring easy-to-use tools for working with AI while keeping them powerful.
